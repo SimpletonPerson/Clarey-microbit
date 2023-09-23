@@ -16,6 +16,26 @@ All images provided here is taken from the Microsoft MakeCode for micro:bit, i s
 
 ### Thermometer
 
+![Thermometer](thermometer.png)
+
+Wanted to see how warm or cold it is by just 3 images?
+**Shake.**
+***Shake the micro:bit.***
+***Shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky :)***
+
+### Record-And-Playback
+
+![Record-And-Playback](record.png)
+
+By pressing onto P1, you can start recording!
+After pressing P2, you will hear what you said.
+Recordings will not save onto the device in any way. (Atleast, i think.)
+
+### ???
+
+![Figure it out yourself.](secret.png)
+
+I'm not telling you how to do it, just figure it out yourself.
 
 ## Use as Extension
 
@@ -38,3 +58,8 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+#### Info
+
+Everything here, from the screenshots to the mentions of the device, is all owned by the [Micro:bit Educational Foundation](https://microbit.org).
+Thank you to micro:bit and everyone that worked hard into the device for giving young kids and everyone a chance to make things on a device. :heart:
