@@ -1,4 +1,4 @@
-![clarey:bit logo.](clareybit_logo.svg "Design inspired by micro:bit. In no way is MSITAU associated with the BBC (British Broadcasting Corporation), this is simply a project i made with love. Thank you BBC. ❤️)
+![clarey:bit logo.](clareybit_logo.svg "Design inspired by micro:bit. In no way is MSITAU associated with the BBC (British Broadcasting Corporation), this is simply a project i made with love. Thank you BBC. ❤️")
 > Open this page at [https://simpletonperson.github.io/clarey-microbit/](https://simpletonperson.github.io/clarey-microbit/)
 
 ## Use as Extension
