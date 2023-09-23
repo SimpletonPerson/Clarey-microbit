@@ -1,4 +1,4 @@
-
+![Alt text](clarey_bit logo.svg)
 > Open this page at [https://simpletonperson.github.io/clarey-microbit/](https://simpletonperson.github.io/clarey-microbit/)
 
 ## Use as Extension
