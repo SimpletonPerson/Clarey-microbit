@@ -1,5 +1,5 @@
 {
-    "name": "Rhythm_Game",
+    "name": "Clarey on micro:bit",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -7,7 +7,8 @@
         "microphone": "*",
         "audio-recording": "*",
         "radio-broadcast": "*",
-        "datalogger": "*"
+        "datalogger": "*",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.3"
     },
     "files": [
         "main.blocks",
